@@ -1,2 +1,3 @@
 # Dalagor
-This game was created with python turtle
+This game was created with python turtle.
+Dalagor is a two-player game where you collect points by eating the bait from above. There are two different types of bait for each player. The first player's baits are black and red, the second player's baits are white and orange. Black and white baits directly earn you +1 point. Red and orange baits are risky feeds. When you eat the red or orange bait, you get 25% chance of +2 points, 25% chance of -1 points, 25% chance of you getting smaller/ your bait speed increases, 25% chance of your opponent getting smaller / the speed of your bait increases. When one of the two players reaches 20 points, the game is over. If you notice any bug or if you want to some additional things for my game you can let me know. I'm waiting your feedbacks. Have fun 😊
